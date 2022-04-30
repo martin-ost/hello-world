@@ -1,5 +1,5 @@
 # hello-world
-first steps
+first steps, see https://docs.github.com/en/get-started/quickstart/hello-world
 
 # Header 1
 ## Header 2
